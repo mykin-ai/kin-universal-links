@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.mykin.app",
+      "sha256_cert_fingerprints": [
+        "F6:46:F9:CB:19:FE:FD:22:5A:90:8B:03:E0:CF:CF:BB:91:2F:89:15:6E:D0:5D:9A:6A:1D:7C:3F:69:A0:B5:B4"
+      ]
+    }
+  }
+]
